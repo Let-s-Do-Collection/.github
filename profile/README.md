@@ -1,4 +1,6 @@
-<p align="center"><img src="https://github.com/Let-s-Do-Collection/Let-s-Do-Collection/blob/main/LOGO.png?raw=true" width="1200"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Let-s-Do-Collection/Let-s-Do-Collection/main/LOGO.png" width="1200">
+</p>
 
 <h1 align="center">Welcome to the [Let's Do] Collection!</h1>
 
