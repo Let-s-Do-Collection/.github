@@ -86,7 +86,7 @@
     <img src="https://1000logos.net/wp-content/uploads/2021/06/Discord-logo-2015.png" height="120" />
   </a>&nbsp;&nbsp;&nbsp;
   <a title="Patreon" href="https://www.patreon.com/user?u=78595058">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/patreon_logo_icon_170869.png" height="120" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/patreon.svg" height="60" alt="Patreon" />
   </a>
 </div>
 
